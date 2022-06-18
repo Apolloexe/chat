@@ -2,7 +2,7 @@
 * Create by Apollo.exe
 * Date: 15/06/2022
 * This project consists of a chat based on the TCP protocol
-* License: MIT LICENSE
+* License: MIT LICENSE (https://github.com/Apolloexe/chat/blob/main/LICENSE)
 *
 * */
 
